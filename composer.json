@@ -1,0 +1,14 @@
+{
+    "name": "sajjad-sh/mvc",
+    "description": "M54 First MVC Project",
+    "authors": [{
+        "name": "Sajjad Shahrabi",
+        "email": "msajjad.shahrabi@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
